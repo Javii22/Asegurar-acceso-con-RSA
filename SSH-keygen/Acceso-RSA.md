@@ -113,4 +113,5 @@ Desde PowerShell en Windows, intenta conectarte al contenedor usando la clave pr
 ssh -i $env:USERPROFILE\.ssh\id_rsa_debian -p 2222 root@localhost
 ```
 ![alt text](image.png)
+
 Si todo está bien, te conectarás sin que te pida contraseña.En mi caso le puse contraseña.
